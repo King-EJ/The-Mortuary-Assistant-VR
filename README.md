@@ -8,9 +8,9 @@ VR mod for "The Mortuary Assistant" (Unity 2021.2.4f1, IL2CPP x64, HDRP, Unity I
 
 Install
 -------
-unzip into the game folder (next to "The Mortuary Assistant.exe").
+1.unzip into the game folder (next to "The Mortuary Assistant.exe").
    
-3. Start Quest Link / Virtual Desktop / SteamVR first (it must be the OpenXR runtime), then the game.
+2. Start Quest Link / Virtual Desktop / SteamVR first (it must be the OpenXR runtime), then the game.
 
 You see the world from Rebecca's eyes. Head look: she looks, walks and uses things where you look. The game's
 menus and HUD float on a screen in front of you (solid in menus, see-through in play).
