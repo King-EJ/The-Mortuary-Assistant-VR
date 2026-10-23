@@ -22,7 +22,7 @@ Normal play:
   
   Right stick left / right ... turn (snap or smooth)
   
-  Right stick up ............... d-pad up  
+  Right stick up ............... d-pad up (read clipboard)   
   
   Right stick down ........... d-pad down (**start game**)
   
