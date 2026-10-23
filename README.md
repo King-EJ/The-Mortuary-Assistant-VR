@@ -2,7 +2,7 @@
 VR Mod for The Mortuary Assistant 
 
 
-THE MORTUARY ASSISTANT VR  v0.1.5
+THE MORTUARY ASSISTANT VR  v0.1.5 (testing this out so expect issues)
 =================================
 VR mod for "The Mortuary Assistant" (Unity 2021.2.4f1, IL2CPP x64, HDRP, Unity Input System) - BepInEx 6 be.788.
 
