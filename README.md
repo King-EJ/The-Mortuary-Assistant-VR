@@ -25,9 +25,10 @@ Normal play:
   Right stick up ............... d-pad up  
   
   Right stick down ........... d-pad down (**start game**)
+  
   Right grip ................... A (use)  
   
-  Left grip .................. LB
+  Left grip .................. LB (hold clipboard) 
   
   Triggers ..................... LT / RT  sprint\crouch
   
