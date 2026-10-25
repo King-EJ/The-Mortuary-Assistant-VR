@@ -48,9 +48,9 @@ Main menu (title screen): right stick = d-pad down
 Menus, inspecting items, clipboard, computer, cut-scenes: a normal Xbox controller
 
 Always:
-  X + Y together ............... Back
+  X + Y together ............... Back (inventory)
   
-  A + B together ............... Start
+  A + B together ............... Start (pause)
   
   Tap both stick clicks ........ re-centre the view
   
